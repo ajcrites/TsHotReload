@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "jsx": "react-native",
+    "noEmit": true,
+    "lib": ["es2017", "dom"]
+  }
+}
